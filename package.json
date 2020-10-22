@@ -1,0 +1,17 @@
+{
+  "name": "jira-logger",
+  "version": "1.0.0",
+  "description": "Log time on Jira issues with puppeteer",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "fs": "0.0.1-security",
+    "puppeteer": "^2.1.1",
+    "semistandard": "^14.2.3"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "fix-code": "semistandard --fix"
+  }
+}
