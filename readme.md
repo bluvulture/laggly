@@ -1,4 +1,4 @@
-# Loggly - NodeJS/Puppeteer Jira logger
+# Loggly - NodeJS Puppeteer Jira logger
 
 If you are using Jira to track time on projects, and you are lazy as I am, you probably log time at the last possible moment.
 So, I've made a small autolog tool for JIRA with NodeJS and Puppeteer.
